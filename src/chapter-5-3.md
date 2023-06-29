@@ -3,13 +3,6 @@ How ChatGPT can be used as a personal shopping assistant in online retail
 
 ChatGPT is an AI-powered personal shopping assistant that can help improve the online shopping experience for customers. In this chapter, we will explore how ChatGPT works and how it can be used as a personal shopping assistant in online retail.
 
-How ChatGPT Works
------------------
-
-ChatGPT uses natural language processing (NLP) and machine learning to understand customer queries and provide personalized recommendations. It works by analyzing customer behavior and preferences, such as browsing history, purchase history, and product preferences, to provide tailored recommendations and assistance.
-
-ChatGPT can interact with customers through various channels, including chatbots, messaging apps, and voice assistants. It can understand and respond to customer queries in a conversational manner, providing a seamless and personalized shopping experience.
-
 Personalization with ChatGPT
 ----------------------------
 

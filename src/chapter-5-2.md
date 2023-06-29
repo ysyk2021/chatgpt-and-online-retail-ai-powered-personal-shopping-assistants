@@ -3,11 +3,6 @@ Features and Capabilities of ChatGPT
 
 In this chapter, we will discuss the features and capabilities of ChatGPT, the AI-powered personal shopping assistant.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an AI-powered virtual assistant that can provide personalized assistance and recommendations to online shoppers. It uses advanced natural language processing (NLP) and machine learning algorithms to understand customer queries and provide relevant responses.
-
 Features of ChatGPT
 -------------------
 
