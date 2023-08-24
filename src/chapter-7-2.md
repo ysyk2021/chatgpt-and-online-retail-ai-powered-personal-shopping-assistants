@@ -1,5 +1,3 @@
-Emerging Trends and Challenges in Online Retail Industry and ChatGPT
-==============================================================================================================================
 
 In this chapter, we will discuss the emerging trends and challenges that ChatGPT and the online retail industry are likely to face in the future.
 

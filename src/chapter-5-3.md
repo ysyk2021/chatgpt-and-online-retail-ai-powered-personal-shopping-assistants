@@ -1,5 +1,3 @@
-How ChatGPT can be used as a personal shopping assistant in online retail
-===========================================================================================================
 
 ChatGPT is an AI-powered personal shopping assistant that can help improve the online shopping experience for customers. In this chapter, we will explore how ChatGPT works and how it can be used as a personal shopping assistant in online retail.
 

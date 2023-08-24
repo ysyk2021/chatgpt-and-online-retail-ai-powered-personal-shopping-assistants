@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the importance of using ChatGPT as an AI-powered personal shopping assistant in the online retail industry. Here is a summary of the key points discussed:
 

@@ -1,5 +1,3 @@
-Factors Affecting Online Retail Industry
-=========================================================================================
 
 The online retail industry faces numerous challenges that impact customer experience and sales. In this chapter, we will explore some of the key factors affecting the industry and their impact on online retail.
 

@@ -1,5 +1,3 @@
-Steps to implement ChatGPT in online retail industry
-===============================================================================================================
 
 In this chapter, we will discuss the key steps required to successfully implement ChatGPT as a personal shopping assistant in the online retail industry.
 

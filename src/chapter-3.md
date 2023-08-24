@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Online Retail Industry
-===============================================
 
 The online retail industry faces numerous challenges that can impact customer experience and sales. In this chapter, we will explore some of the key factors affecting the industry, common challenges faced by online retailers, and the impact of these challenges on customer experience and sales.
 

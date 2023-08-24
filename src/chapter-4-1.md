@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-========================================================================================
 
 AI and chatbots are rapidly changing the online retail industry by providing new ways for companies to interact with customers and personalize the shopping experience. In this chapter, we will introduce AI and chatbots and their role in online retail.
 

@@ -1,5 +1,3 @@
-Chapter 6: Future of Online Retail Industry with ChatGPT
-========================================================
 
 In this chapter, we will explore the potential advancements, emerging trends, and challenges that ChatGPT may face in the future. We will also provide a final conclusion and outlook on the future of ChatGPT in the online retail industry.
 

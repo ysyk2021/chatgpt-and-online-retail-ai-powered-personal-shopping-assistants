@@ -1,5 +1,3 @@
-Explanation of Online Retail Industry and Its Importance
-======================================================================
 
 The online retail industry, also known as e-commerce, refers to the buying and selling of products or services over the internet. It has become an essential part of many people's lives due to its convenience, accessibility, and flexibility. With the growth of technology and increased access to the internet, the online retail industry has experienced significant growth in recent years.
 

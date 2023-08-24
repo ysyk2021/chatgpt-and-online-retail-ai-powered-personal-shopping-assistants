@@ -1,5 +1,3 @@
-Case Studies of Online Retailers that have Successfully Implemented ChatGPT in their Services
-========================================================================================================================================================
 
 In this chapter, we will discuss case studies of online retailers that have successfully implemented ChatGPT as a personal shopping assistant in their services.
 

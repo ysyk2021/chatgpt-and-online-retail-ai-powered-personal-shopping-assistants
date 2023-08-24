@@ -1,5 +1,3 @@
-Definition of Online Retail Industry
-=================================================================================
 
 The online retail industry, also known as e-commerce, refers to the buying and selling of products or services over the internet. It has become increasingly popular among consumers due to its convenience, accessibility, and flexibility. Online retailers can operate through their own websites or third-party platforms such as Amazon or Alibaba.
 

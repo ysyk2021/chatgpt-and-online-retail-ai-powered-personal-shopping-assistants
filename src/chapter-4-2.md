@@ -1,5 +1,3 @@
-How AI and Chatbots can Improve Online Shopping Experience
-===================================================================================================================
 
 AI and chatbots have the potential to transform the online retail industry by providing personalized shopping experiences that are tailored to each customer's preferences and needs. In this chapter, we will explore how AI and chatbots can improve the online shopping experience.
 

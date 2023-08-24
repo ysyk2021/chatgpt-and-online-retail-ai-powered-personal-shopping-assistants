@@ -1,5 +1,3 @@
-Best practices for using ChatGPT as a personal shopping assistant
-============================================================================================================================
 
 In this chapter, we will discuss best practices for using ChatGPT as a personal shopping assistant in the online retail industry. These best practices are essential to ensure the successful implementation of ChatGPT and provide a seamless and personalized shopping experience for customers.
 

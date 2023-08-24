@@ -1,5 +1,3 @@
-Chapter 1: Basics of Online Retail Industry
-===========================================
 
 The online retail industry has become an essential part of many people's lives. In this chapter, we will explore the basics of the online retail industry, including its definition, different types of e-commerce businesses, and the importance of customer experience and personalization.
 

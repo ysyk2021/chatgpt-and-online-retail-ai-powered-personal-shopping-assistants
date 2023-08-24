@@ -1,5 +1,3 @@
-Potential Advancements in Online Retail Industry with ChatGPT
-=======================================================================================================================
 
 In this chapter, we will explore the potential advancements that ChatGPT can bring to the online retail industry and how it can shape the future of online shopping.
 

@@ -1,5 +1,3 @@
-Different Types of E-commerce Businesses
-=====================================================================================
 
 The online retail industry, also known as e-commerce, encompasses various types of businesses. Understanding the different types of e-commerce businesses is essential for anyone interested in the sector.
 

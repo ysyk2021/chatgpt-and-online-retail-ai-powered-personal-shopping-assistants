@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 The online retail industry has experienced significant growth in recent years, with more and more customers choosing to shop online. With this growth, comes an increased need for companies to provide a positive shopping experience for their customers. This is where ChatGPT comes into play.
 
