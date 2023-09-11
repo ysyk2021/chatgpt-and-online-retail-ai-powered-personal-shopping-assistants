@@ -1,5 +1,4 @@
-Chapter 2: Factors Affecting the Online Retail Industry
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various factors that significantly impact the online retail industry. Understanding these factors is crucial for retailers and AI-powered personal shopping assistants like ChatGPT to navigate the ever-changing landscape of online retail successfully.
 

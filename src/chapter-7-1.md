@@ -1,5 +1,4 @@
-Chapter 5: Potential Advancements in the Online Retail Industry with ChatGPT
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential advancements that ChatGPT, an AI-powered language model, can bring to the online retail industry. We will discuss how ChatGPT can revolutionize various aspects of online retail and drive innovation.
 

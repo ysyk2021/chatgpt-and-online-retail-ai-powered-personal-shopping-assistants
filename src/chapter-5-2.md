@@ -1,5 +1,4 @@
-Chapter 2: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities of ChatGPT, an AI-powered language model that serves as a personal shopping assistant in online retail. Understanding its abilities will shed light on how it can enhance the online retail experience.
 

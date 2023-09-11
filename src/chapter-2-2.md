@@ -1,5 +1,4 @@
-Chapter 3: Different Types of E-commerce Businesses
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of e-commerce businesses that exist within the online retail industry. These different models cater to diverse customer needs, market segments, and business objectives.
 

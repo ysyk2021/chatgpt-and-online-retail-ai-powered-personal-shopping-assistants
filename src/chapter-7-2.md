@@ -1,5 +1,4 @@
-Chapter 6: Emerging Trends and Challenges in the Online Retail Industry and ChatGPT
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends and challenges in the online retail industry and how they relate to the use of ChatGPT as a personal shopping assistant. Understanding these trends and challenges is crucial for staying ahead in the rapidly evolving online retail landscape.
 

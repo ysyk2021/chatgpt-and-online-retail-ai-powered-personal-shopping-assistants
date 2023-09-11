@@ -1,5 +1,4 @@
-Chapter 4: How ChatGPT can be Used as a Personal Shopping Assistant in Online Retail
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT, an AI-powered language model, can serve as a personal shopping assistant in the context of online retail. We will discuss its capabilities, benefits, and potential use cases.
 

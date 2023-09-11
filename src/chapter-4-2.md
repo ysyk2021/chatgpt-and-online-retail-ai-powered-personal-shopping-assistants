@@ -1,5 +1,4 @@
-Chapter 4: How AI and Chatbots Can Improve the Online Shopping Experience
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI (Artificial Intelligence) and chatbots can significantly enhance the online shopping experience for customers. By leveraging these technologies, online retailers can provide personalized assistance, simplify product discovery, and offer seamless interactions, ultimately transforming the way customers shop online.
 

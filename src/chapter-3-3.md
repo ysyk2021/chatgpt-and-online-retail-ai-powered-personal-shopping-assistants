@@ -1,5 +1,4 @@
-Chapter 5: Impact of These Challenges on Customer Experience and Sales
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the impact that the challenges discussed earlier have on customer experience and sales in the context of AI-powered personal shopping assistants like ChatGPT.
 

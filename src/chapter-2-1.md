@@ -1,5 +1,4 @@
-Chapter 1: Definition of the Online Retail Industry
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will define and explore the online retail industry, also known as e-commerce. We will delve into its characteristics, scope, and significance in today's digital landscape.
 

@@ -1,5 +1,4 @@
-Chapter 7: Conclusion and Future Outlook
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we summarize the key findings of this book on ChatGPT and its role as an AI-powered personal shopping assistant in the online retail industry. We also discuss the future outlook for ChatGPT and the potential it holds for transforming the online retail landscape.
 

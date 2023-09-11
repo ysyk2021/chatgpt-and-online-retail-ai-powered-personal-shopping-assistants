@@ -1,5 +1,4 @@
-Chapter 3: Benefits of Using AI and Chatbots for the Online Retail Industry
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that AI (Artificial Intelligence) and chatbots bring to the online retail industry. From enhanced customer experiences to improved operational efficiency, these technologies have revolutionized how retailers engage with customers and conduct business.
 

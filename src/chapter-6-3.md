@@ -1,5 +1,4 @@
-Chapter 5: Case Studies of Online Retailers that Have Successfully Implemented ChatGPT in Their Services
-========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of online retailers that have effectively implemented ChatGPT, an AI-powered language model, in their services. These retailers have leveraged ChatGPT to enhance their customer experiences, improve engagement, and drive business growth.
 
